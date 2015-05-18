@@ -2,7 +2,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
         final String[] diasDaSemana = {"Domingo", "Segunda", "Terça",
-                "Quarta", "Quinta", "Sexta", "Sabado", "manut 2"};
+                "Quarta", "Quinta", "Sexta", "Sabado", "manut 3"};
         
         System.out.println(diasDaSemana[2]);
         
