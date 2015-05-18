@@ -6,7 +6,7 @@ public class HelloWorld {
         
         System.out.println(diasDaSemana[2]);
         
-        if (1==1 & 2==2){
+        if (1==1 && 2==2){
         	System.out.println("VERDADEIRO");
         }
     }
