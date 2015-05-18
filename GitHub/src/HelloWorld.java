@@ -1,0 +1,10 @@
+public class HelloWorld {
+
+	public static void main(String[] args) {
+        final String[] diasDaSemana = {"Domingo", "Segunda", "Terça",
+                "Quarta", "Quinta", "Sexta", "Sabado" };
+        
+        System.out.println(diasDaSemana[2]);
+    }
+}
+
